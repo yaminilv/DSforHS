@@ -1,0 +1,7 @@
+Bobcat,33.5,20.5,11
+Canadian Lynx,36,33,15
+Ocelot,30.5,29.5, 8.5
+Mountain lion,83.5,130,10.5
+Jaguar,66,145,13.5
+Jaguarundi,25.5,13,11
+
