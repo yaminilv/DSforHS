@@ -1,0 +1,35 @@
+Polar bear : 8.5
+Dugong : 8.4
+Walrus: 12
+Sea Otter : 3.4
+South American sea lion : 6.9
+Harbor seal : 5.3
+Harbor porpoise: 5
+Vaquita: 3.5
+West Indian manatee: 11 
+Northern elephant seal: 12
+Ringed seal: 4.2
+Harp seal: 5.6
+Northern fur seal: 5.7
+Southern elephant seal: 12
+Spotted seal: 5.4
+Leopard seal: 10
+Bearded seal: 7.5
+Meditarranean monk seal: 8.5
+Amazonian manatee: 9
+Hawaiian monk seal: 7.3
+Dalls porpoise: 7.6
+Marine otte: 3.2
+Anatartica fur seal: 5.1
+Brown fur seal: 6.2
+Crabeater seal: 7.4
+Baikal seal: 4.2
+South American fur seal: 5.4
+New Zealand fur seal: 5.6
+African manatee: 11
+Carribean monk seal: 7.5
+Galapagos fur seal: 4.4
+New Zealand sea lion: 6.6
+Gaudalupe fur seal: 5.6
+Subantarctic fur seal: 5.3
+Juan Fernandez fur seal: 5.6
