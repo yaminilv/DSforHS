@@ -1,0 +1,11 @@
+Name, Age, Day, Month, Siblings, Dessert,Color
+Jack,8,3,4,2,Glazed Donuts,Blue
+Jill,8,3,4,2, Chocolate cupcakes, Yellow
+Mary,9,12,6,0,Chocolate icecream, Pink
+Miss Muffet,7, 25,12, 1,Vanilla yogurt, Green
+Tom, 10, 30,8,3, Vanilla cupcake, Blue
+Humpty Dumpty, 12, 14,3,4,Strawberry icecream, Yellow
+Bo Peep, 15, 1,1,3,Chocolate cupcakes,Pink
+Old King Cole, 90,31,05,6,Fruits, Yellow
+Old Mac Donald, 55, 30,4,3,Vanilla yogurt, Green
+Muffin Man, 43, 9,2,2,Muffin, Green
