@@ -1,4 +1,4 @@
-Show,ID,Creator
+Cartoon,ID,Creator
 The Simpsons,Homer%$#Simpson,Matt_Groening
 Scooby Doo,Scooby23Doo5,Joe_Ruby&Ken_Spears&Iwao_Takamoto
 Tintin,Tintin8,Herge
