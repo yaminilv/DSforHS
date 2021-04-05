@@ -1,0 +1,10 @@
+Show,ID,Creator
+The Simpsons,Homer%$#Simpson,Matt_Groening
+Scooby Doo,Scooby23Doo5,Joe_Ruby&Ken_Spears&Iwao_Takamoto
+Tintin,Tintin8,Herge
+Asterix&Obelix,4Asterix6,Rene_Gosciny&Albert_Uderzo
+Peanuts,Charlie567Brown,Charles M.Schulz 
+Woody Woodpecker,WoodyWoodpecker,Walter_Lanz&Alex_Loey&Ben_Hardaway
+Pink Panther,3Pink@#Panther,Blake Edwards
+Toy Story,Buzz890#@Lightyear,John_Lasseter&Pete_Docter&Andrew_Stanton
+Calvin&Hobbes,#$Calvin12Hobbes,Bill Watterson
