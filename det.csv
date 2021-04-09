@@ -1,0 +1,10 @@
+:Detective:ID:Birthday:University:Murders:Black?mail:Theft:Height:Gender:Country:Popularity
+:String:String:String:String:Integer:Integer:Integer:String:String:String,Integer
+0:  Hercule Poirot:Hercule567Poirot:07-17-1916:KU Leuven:56:8:21:5’1’:Male:Belgium:89
+1:shawn-Spencer:Shawn$#@Spencer:03 24 1977::403:1:14:5’10”:Male:US:83
+2:Adrian_Monk:AdrianMonk:10 17 1959:Berkeley:70:6:23:5’9”:male:US:
+3:  sam-Spade:SamSpade1:12/12/1930:Standford:30:0:26::MALE:US:
+4:Sherlock-Holmes:Sherlock1234Holmes:01/06/1854:Oxford:64::23:6’2”:Male:England:65
+5:  Jessica Flecther:1Jessica2Fletcher:03-17-1942:Boston:48:4:16:5’8”:Female:US:59
+:Nancy drew:Nancy34%*Drew:06-06-1980:Riverheights:30:2:12:5’9”:female:US
+:Junk:Junk:Junk:::::::
