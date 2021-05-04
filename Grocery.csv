@@ -1,4 +1,4 @@
-AnnualSales,SqFt,Inventory,Advertising,DistrictSize,CompetingStores
+AnnualSales,StoreSize,Inventory,Advertising,DistrictSize,CompetingStores
 231,3,294,8.199999809,8.199999809,11
 156,2.200000048,232,6.900000095,4.099999905,12
 10,0.5,149,3,4.300000191,15
