@@ -1,4 +1,4 @@
-"Country","Sex","Year","Age group","Mean height","Mean height lower 95% uncertainty interval","Mean height upper 95% uncertainty interval","Mean height standard error"
+"Country","Sex","Year","Age group","Mean height","HeightLower95%","HeightUpper95%","HeightStdErr"
 "United States of America","Boys",1985,5,113.9148963,113.0178346,114.8082781,0.454817794
 "United States of America","Boys",1985,6,120.300116,119.4824457,121.1357342,0.421057967
 "United States of America","Boys",1985,7,126.2472657,125.4398819,127.0725156,0.415008003
